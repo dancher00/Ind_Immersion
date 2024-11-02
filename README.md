@@ -1,4 +1,4 @@
-# SBER_Immersion
+# Immersion
 the reporting repository of the project performed as part of a student internship
 
 
